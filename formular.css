@@ -1,0 +1,49 @@
+/* CSS Document */
+
+#zaklad {
+    width: 1200px;
+}
+
+#ridicak {
+    position: relative;
+    display: block;
+    float: left;
+    width: 270px;
+    height: 140px;
+    margin-right: 10px;
+}
+
+#jazyk {
+    position: relative;
+    display: block;
+    float: left;
+    width: 270px;
+    height: 140px;
+    margin-right: 10px;
+}
+
+#nemcina {
+    position: relative;
+    display: block;
+    float: left;
+    width: 270px;
+    height: 140px;
+    margin-right: 10px;
+}
+
+#dalsi {
+    position: relative;
+    display: block;
+    float: left;
+    width: 270px;
+    height: 140px;
+    margin-right: 10px;
+}
+
+#odeslat {
+    background-color: greenyellow;
+}
+
+.cistic {
+    clear: both;
+}
